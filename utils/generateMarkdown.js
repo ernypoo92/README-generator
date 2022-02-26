@@ -53,10 +53,10 @@ function generateMarkdown(data) {
 
   ## Usage
   After installing in your project directory, simply run ${data.usage} in the terminal.
-  ${generateScrnShot(data.scrnShot)}
+  ${generateScrnShot(confirmScrnShot, data)}
 
   ## Contributors
-  Contributors: ${data.contributors}
+  Contributors: ${data.contributing}
 
   ## Tests
   The following needed to run the test:${data.tests}
