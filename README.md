@@ -38,7 +38,6 @@
   The Project is licensed under: MIT  
   LICENCE:![GitHub license](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-  ## Preview
 
   ## GitHub
   ernypoo92
@@ -46,5 +45,5 @@
   ## E-mail
   ernypoo92@gmail.com
   ## Questions:
-  If you have any questions about the repo, open an issue or contact at undefined/undefined
+  If you have any questions about the repo, open an issue or contact at ernypoo92/ernypoo92@gmail.com
 
