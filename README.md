@@ -15,16 +15,16 @@
   It also uses inquirer to prompt project questions in this application and generates a markdown file with dynamic data generated 
   from the user's interaction through terminal actions.
   
-  Toilet Buddy App is the companion to the famous product created by Micheal Scott. 
+  Toilet Buddy App is the companion to the famous product created by Micheal Scott. This allows users to share positive experiences using Toilet Buddy.
 
   ## Installation
   The following dependencies needed to be installed to run the application are Git Clone from this repo.
 
   ## Usage
-  After installing in your project directory, simply run Git Clone from this repo. in the terminal.
+  After installing in your project directory, simply Git Clone from this repo.
   
 
-  ![screen shot of Toilet Buddy App](/assets/images/toilet-buddy.jpeg)
+  ![screen shot of Toilet Buddy App](/assets/images/toilet-buddy.jpg)
 
   
 
@@ -41,11 +41,11 @@
   ## Preview
 
   ## GitHub
-  undefined
+  ernypoo92
 
   ## E-mail
-  undefined
+  ernypoo92@gmail.com
 
   ## Questions:
-  If you have any questions about the repo, open an issue or contact at undefined/undefined
+  If you have any questions about the repo, open an issue or contact at ernypoo92/ernypoo92@gmail.com
 

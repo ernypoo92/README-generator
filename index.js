@@ -98,7 +98,12 @@ const questions = () => {
         },
         {
             type: "input",
-            name: "email",
+            name: "username",
+            message: "Please enter your Git Hub username: "
+        },
+        {
+            type: "input",
+            name: "Email",
             message: "Please enter your email: "
         }
     ]);

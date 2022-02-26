@@ -52,7 +52,7 @@ function generateMarkdown(data) {
   The following dependencies needed to be installed to run the application are ${data.install}
 
   ## Usage
-  After installing in your project directory, simply run ${data.usage} in the terminal.
+  After installing in your project directory, simply ${data.usage}
   ${generateScrnShot(data)}
 
   ## Contributors
@@ -65,7 +65,6 @@ function generateMarkdown(data) {
   The Project is licensed under: ${data.license}  
   LICENCE:${renderLicenseBadge(data)}
 
-  ## Preview
 
   ## GitHub
   ${data.username}
