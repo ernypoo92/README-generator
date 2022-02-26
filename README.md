@@ -24,7 +24,7 @@
   After installing in your project directory, simply run Git Clone from this repo. in the terminal.
   
 
-  ![screen shot of Toilet Buddy App](/assets/images/toilet-buddy.jpeg)
+  ![screen shot of Toilet Buddy App](/assets/images/toilet-buddy.jpg)
 
   
 
