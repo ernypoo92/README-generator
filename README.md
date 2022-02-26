@@ -41,11 +41,10 @@
   ## Preview
 
   ## GitHub
-  undefined
+  ernypoo92
 
   ## E-mail
-  undefined
-
+  ernypoo92@gmail.com
   ## Questions:
   If you have any questions about the repo, open an issue or contact at undefined/undefined
 
