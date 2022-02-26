@@ -21,7 +21,7 @@
   The following dependencies needed to be installed to run the application are Git Clone from this repo.
 
   ## Usage
-  After installing in your project directory, simply run Git Clone from this repo. in the terminal.
+  After installing in your project directory, simplyGit Clone from this repo. 
   
 
   ![screen shot of Toilet Buddy App](/assets/images/toilet-buddy.jpg)
