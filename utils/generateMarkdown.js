@@ -16,8 +16,8 @@ function renderLicenseBadge(data) {
 }
 
 // create screenshot in usage section
-const generateScrnShot = (confirmScrnShot, data) => {
-  if (!confirmScrnShot) {
+const generateScrnShot = data => {
+  if (!data.confirmScrnShot) {
     return '';
   }
   return `
@@ -53,7 +53,7 @@ function generateMarkdown(data) {
 
   ## Usage
   After installing in your project directory, simply run ${data.usage} in the terminal.
-  ${generateScrnShot(confirmScrnShot, data)}
+  ${generateScrnShot(data)}
 
   ## Contributors
   Contributors: ${data.contributing}

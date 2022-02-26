@@ -21,14 +21,18 @@
   The following dependencies needed to be installed to run the application are Git Clone from this repo.
 
   ## Usage
-  After installing in your project directory, simply run This is a social media platform for Toilet Buddy users to share their experiences. in the terminal.
+  After installing in your project directory, simply run Git Clone from this repo. in the terminal.
+  
+
+  ![screen shot of Toilet Buddy App](/assets/images/toilet-buddy.jpeg)
+
   
 
   ## Contributors
   Contributors: Aaron Jones, Micheal Scott
 
   ## Tests
-  The following needed to run the test:no
+  The following needed to run the test:No
 
   ## License
   The Project is licensed under: MIT  
